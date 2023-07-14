@@ -1,0 +1,7 @@
+{
+    "require": {
+        "irazasyed/telegram-bot-sdk": "2.0",
+        "ext-json": "*",
+        "ext-curl": "*"
+    }
+}
